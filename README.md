@@ -1,1 +1,0 @@
-# grsu_ais_vakhrushau
