@@ -1,0 +1,6 @@
+relayhost = [smpt.gmail.com]:587
+smpt_sasl_auth_enable = yes
+smpt_sasl_password_maps = hash:/etc/postfix/sasl_passwd
+smpt_sasl_security_options = noanonymus
+smpt_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
+smpt_use_tls = yes
